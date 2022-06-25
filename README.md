@@ -1,6 +1,6 @@
 ## Hey! I am *Lucas Aversi*   👋
 
--> 🌱*Learning TypeScript at* #Labenu
+-> 🌱*Learning Knex at* #Labenu
 
 <br/>
   
