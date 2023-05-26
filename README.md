@@ -1,6 +1,6 @@
 ## Hey! I am *Lucas Aversi*   👋
 
--> 🌱*Learning Knex at* #Labenu
+-> 🌱*Learning java
 
 <br/>
   
@@ -28,7 +28,6 @@
   </table> 
   </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
