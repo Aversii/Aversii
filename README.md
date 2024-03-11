@@ -1,6 +1,8 @@
 ## Hey! I am *Lucas Aversi*   👋
+### FullStack Developer
+<br/>
 
--> 🌱*Learning SPRING
+-> 🌱*Learning DJANGO
 
 <br/>
   
