@@ -2,7 +2,7 @@
 ### FullStack Developer
 <br/>
 
--> 🌱*Learning DJANGO
+-> 🌱*Learning Clean Architeture
 
 <br/>
   
