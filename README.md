@@ -2,7 +2,7 @@
 ### FullStack Developer
 <br/>
 
--> 🌱*Learning Clean Architeture
+-> 🌱*Learning Cloud
 
 <br/>
   
