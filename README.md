@@ -1,4 +1,4 @@
-## Hey! I am *Lucas Aversi*   👋
+## Hey! I am *Aversi*   👋
 ### FullStack Developer
 <br/>
 
